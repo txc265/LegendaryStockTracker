@@ -50,10 +50,7 @@ L["Boneshatter Waistguard"] =  "Knochenschmetternder Taillenschutz"
 -- UI-Elements
 L["Export"] =  "Exportieren"
 L["Settings"] =  "Einstellungen"
-L["Table"] =  "Übersicht"
-L["Restock"] =  "Auffüllen"
-L["Rank"] =  "Rang"
-L["Profit"] =  "Gewinn"
+L["Table"] =  "Tabelle"
 
 -- Export Frame
 L["Paste this data into your copy of the spreadsheet"] = "Füge diese Daten in deine Kopie des Tabellenblatts ein"
@@ -61,17 +58,12 @@ L["Paste this data into your copy of the spreadsheet"] = "Füge diese Daten in d
 --Settings Frame
 L["Show all legendaries"] = "Zeige alle Legendaries"
 L["Show profit (requires TSM operations)"] = "Gewinn anzeigen (erfordert TSM-Operationen)"
-L["Include Cached items"] = "Zwischengespeicherte Elemente einbeziehen"
-L["Min profit before restocking"] = "Minimaler Gewinn zum Auffüllen"
-L["Restock amount"] = "Maximale Auffüllmenge"
-L["Min restock amount"] = "Mindest Auffüllmenge"
 L["Sources to include:"] = "Einzuschließende Quellen: (Gegenstandsreihenfolge anders)"
 L["Include Bags"] = "Taschen berücksichtigen"
 L["Include Bank"] = "Bank berücksichtigen"
 L["Include AH"] = "Auktionshaus berücksichtigen"
 L["Include Mail"] = "Briefkasten berücksichtigen"
 L["Include Guild Bank"] = "Gildenbank berücksichtigen"
-L["Send data to this alt"] = "Daten an diesen Twink senden"
 
 -- Minimap Icon
 L["Click or type /lst to show the main panel"] =  "Klicken Sie oder geben Sie /lst ein, um das Hauptfenster anzuzeigen"
@@ -85,26 +77,3 @@ L["Guild: "] = "Gilde: "
 --Data Export
 L["Item name, Rank 1, Rank 2, Rank 3,  Rank 4\n"] = "Gegenstandsname, Rang 1, Rang 2, Rang 3, Rang 4\n"
 L["Item name, Rank 1, Profit Rank 1, Rank 2, Profit Rank 2, Rank 3, Profit Rank 3, Rank 4, Profit Rank 4\n"] = "Gegenstandsname, Rang 1, Gewinn Rang 1, Rang 2, Gewinn Rang 2, Rang 3, Gewinn Rang 3, Rang 4, Gewinn Rang 4\n"
-
--- Table view
-L["Item name"] = "Gegenstandsname"
-L["Rank 1"] = "Rang 1"
-L["Rank 2"] = "Rang 2"
-L["Rank 3"] = "Rang 3"
-L["Rank 4"] = "Rang 4"
-L["R1"] = "R1"
-L["R2"] = "R2"
-L["R3"] = "R3"
-L["R4"] = "R4"
-L["Profit R1"] = "Gewinn R1"
-L["Profit R2"] = "Gewinn R2"
-L["Profit R3"] = "Gewinn R3"
-L["Profit R4"] = "Gewinn R4"
-
--- Restock
-L["Item"] = "Gegenstand"
-L["Amount"] = "Menge"
-
--- Data Sync
-L["LST: Sending data to "] = "LST: Sende Daten an "
-L["LST: Received item data from "] = "LST: Gegenstandsdaten empfangen von "

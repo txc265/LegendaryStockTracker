@@ -51,9 +51,6 @@ L["Boneshatter Waistguard"] =  "Boneshatter Waistguard"
 L["Export"] =  "Export"
 L["Settings"] =  "Settings"
 L["Table"] =  "Table"
-L["Restock"] =  "Restock"
-L["Rank"] =  "Rank"
-L["Profit"] =  "Profit"
 
 -- Export Frame
 L["Paste this data into your copy of the spreadsheet"] = "Paste this data into your copy of the spreadsheet"
@@ -61,17 +58,12 @@ L["Paste this data into your copy of the spreadsheet"] = "Paste this data into y
 --Settings Frame
 L["Show all legendaries"] = "Show all legendaries"
 L["Show profit (requires TSM operations)"] = "Show profit (requires TSM operations)"
-L["Include Cached items"] = "Include Cached items"
-L["Min profit before restocking"] = "Min profit before restocking"
-L["Restock amount"] = "Restock amount"
-L["Min restock amount"] = "Min restock amount"
 L["Sources to include:"] = "Sources to include:"
 L["Include Bags"] = "Include Bags"
 L["Include Bank"] = "Include Bank"
 L["Include AH"] = "Include AH"
 L["Include Mail"] = "Include Mail"
 L["Include Guild Bank"] = "Include Guild Bank"
-L["Send data to this alt"] = "Send data to this alt"
 
 -- Minimap Icon
 L["Click or type /lst to show the main panel"] =  "Click or type /lst to show the main panel"
@@ -85,26 +77,3 @@ L["Guild: "] = "Guild: "
 --Data Export
 L["Item name, Rank 1, Rank 2, Rank 3,  Rank 4\n"] = "Item name, Rank 1, Rank 2, Rank 3,  Rank 4\n"
 L["Item name, Rank 1, Profit Rank 1, Rank 2, Profit Rank 2, Rank 3, Profit Rank 3, Rank 4, Profit Rank 4\n"] = "Item name, Rank 1, Profit Rank 1, Rank 2, Profit Rank 2, Rank 3, Profit Rank 3, Rank 4, Profit Rank 4\n"
-
--- Table view
-L["Item name"] = "Item name"
-L["Rank 1"] = "Rank 1"
-L["Rank 2"] = "Rank 2"
-L["Rank 3"] = "Rank 3"
-L["Rank 4"] = "Rank 4"
-L["R1"] = "R1"
-L["R2"] = "R2"
-L["R3"] = "R3"
-L["R4"] = "R4"
-L["Profit R1"] = "Profit R1"
-L["Profit R2"] = "Profit R2"
-L["Profit R3"] = "Profit R3"
-L["Profit R4"] = "Profit R4"
-
--- Restock
-L["Item"] = "Item"
-L["Amount"] = "Amount"
-
--- Data Sync
-L["LST: Sending data to "] = "LST: Sending data to "
-L["LST: Received item data from "] = "LST: Received item data from "
